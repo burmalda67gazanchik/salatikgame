@@ -1,0 +1,2 @@
+# salatikgame
+файлы игры
